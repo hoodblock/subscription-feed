@@ -1,2 +1,2 @@
 # feed
-纯swiftUI开发，feed 订阅新闻或者指定链接app
+纯SwiftUI开发，feed 订阅新闻链接，持续更新
